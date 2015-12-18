@@ -15,7 +15,7 @@
     <allow-navigation href="*" />
     <allow-intent href="*" />
     
-    <preference name="Fullscreen" value="true" />
+    <preference name="Fullscreen" value="false" />
     <preference name="Orientation" value="default" />
     <preference name="SplashScreen" value="splash" />
     <preference name="SplashScreenDelay" value="4000" />
