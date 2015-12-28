@@ -16,7 +16,7 @@
     <allow-intent href="*" />
     
     
-	<feature name="http://api.phonegap.com/1.0/file" />
+	<feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="Fullscreen" value="true" />
     <preference name="Orientation" value="portrait" />
