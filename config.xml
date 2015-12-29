@@ -56,4 +56,7 @@
         <splash qualifier="port-xxxhdpi" src="res/android/splash/drawable-port-xxxhdpi-screen.png" />
     </platform>
     
+    <platform name="winphone">
+    </platform>
+    
 </widget>
